@@ -11,17 +11,19 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cesarbtakeda&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/cesarbtakeda/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cesarbtakeda&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=cesarbtakeda&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" /> </p>
 
- 
 ### Main skills:
-![GCP](https://img.shields.io/badge/-GCP-0D1117?style=for-the-badge&logo=googlecloud&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Web Desing](https://img.shields.io/badge/-WebDesing-0D1117?style=for-the-badge&logo=&labelColor=0D1117)&nbsp;
+![JS](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Linux Debian](https://img.shields.io/badge/-LinuxDebian-0D1117?style=for-the-badge&logo=debian&labelColor=0D1117)&nbsp;
 ![BashScript](https://img.shields.io/badge/-BashScript-0D1117?style=for-the-badge&logo=gnubash&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Pentest](https://img.shields.io/badge/-Pentest-0D1117?style=for-the-badge&logo=cyberdefenders&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![BashScript](https://img.shields.io/badge/-zsh-0D1117?style=for-the-badge&logo=zsh&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+### Ceertifications
+![ISO-17024](https://img.shields.io/badge/-Cibersecurity-0D1117?style=for-the-badge&logo=cyberdefenders&logoColor=purple&labelColor=0D1117)&nbsp; 
+![GCP](https://img.shields.io/badge/-GCP-0D1117?style=for-the-badge&logo=googlecloud&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
@@ -35,16 +37,12 @@
 ### Other Knowledge:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Cibersecurity](https://img.shields.io/badge/-Cibersecurity-0D1117?style=for-the-badge&logo=cyberdefenders&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Linux Debian](https://img.shields.io/badge/-LinuxDebian-0D1117?style=for-the-badge&logo=debian&labelColor=0D1117)&nbsp;
-![ZSH](https://img.shields.io/badge/-zsh-0D1117?style=for-the-badge&logo=zsh&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Web Desing](https://img.shields.io/badge/-WebDesing-0D1117?style=for-the-badge&logo=&labelColor=0D1117)&nbsp;
 
-  
+
 ### Studying in this moment:
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=sharp&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Assembly](https://img.shields.io/badge/-Asembly-0D1117?style=for-the-badge&logo=assemblyscript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
