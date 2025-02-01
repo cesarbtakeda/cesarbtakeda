@@ -13,9 +13,6 @@
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=cesarbtakeda&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" /> </p>
 
-### Certifications
-![ISO-17024](https://img.shields.io/badge/-Cibersecurity-0D1117?style=for-the-badge&logo=cyberdefenders&logoColor=purple&labelColor=0D1117)&nbsp; 
-![GCP](https://img.shields.io/badge/-GCP-0D1117?style=for-the-badge&logo=googlecloud&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Certifications - Publical Links
 
