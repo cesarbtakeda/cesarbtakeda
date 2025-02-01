@@ -14,6 +14,7 @@
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=cesarbtakeda&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" /> </p>
 
 
+
 ### Main skills:
 ![JS](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Linux Debian](https://img.shields.io/badge/-LinuxDebian-0D1117?style=for-the-badge&logo=debian&labelColor=0D1117)&nbsp;
@@ -34,10 +35,9 @@
 </a>
 
 ## GCP
-<a href="https://github.com/user-attachments/assets/9fc4ad27-b4ef-407a-a3c0-847b321f520e" target="_blank">
- <img src="https://www.cloudskillsboost.google/public_profiles/52f87000-1206-45d7-9426-4cc9612d4b00" alt=" GCP Certification" width="100%" />
+<a href="https://www.cloudskillsboost.google/public_profiles/52f87000-1206-45d7-9426-4cc9612d4b00" target="_blank">
+ <img src="https://github.com/user-attachments/assets/a4a1aab0-db02-43c9-9469-054f54800684" alt=" GCP Certification" width="100%" />
 </a>
-
 
 
 
