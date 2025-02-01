@@ -13,6 +13,7 @@
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=cesarbtakeda&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" /> </p>
 
+
 ### Main skills:
 ![JS](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Linux Debian](https://img.shields.io/badge/-LinuxDebian-0D1117?style=for-the-badge&logo=debian&labelColor=0D1117)&nbsp;
@@ -21,9 +22,25 @@
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![BashScript](https://img.shields.io/badge/-zsh-0D1117?style=for-the-badge&logo=zsh&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-### Ceertifications
+### Certifications
 ![ISO-17024](https://img.shields.io/badge/-Cibersecurity-0D1117?style=for-the-badge&logo=cyberdefenders&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![GCP](https://img.shields.io/badge/-GCP-0D1117?style=for-the-badge&logo=googlecloud&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+### Certifications - Publical Links
+
+### ISO 17-024
+<a href="https://certs.ibsec.com.br/?cert_hash=97493760d2db8082&regenerate=1" target="_blank">
+  <img src="https://github.com/user-attachments/assets/b6994d80-ceeb-4a90-8087-640e15cab81e" alt="IBSEC Certification" width="100%" />
+</a>
+
+## GCP
+<a href="https://github.com/user-attachments/assets/9fc4ad27-b4ef-407a-a3c0-847b321f520e" target="_blank">
+ <img src="https://www.cloudskillsboost.google/public_profiles/52f87000-1206-45d7-9426-4cc9612d4b00" alt=" GCP Certification" width="100%" />
+</a>
+
+
+
+
 
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
