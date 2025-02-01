@@ -13,16 +13,6 @@
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=cesarbtakeda&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" /> </p>
 
-
-
-### Main skills:
-![JS](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Linux Debian](https://img.shields.io/badge/-LinuxDebian-0D1117?style=for-the-badge&logo=debian&labelColor=0D1117)&nbsp;
-![BashScript](https://img.shields.io/badge/-BashScript-0D1117?style=for-the-badge&logo=gnubash&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Pentest](https://img.shields.io/badge/-Pentest-0D1117?style=for-the-badge&logo=cyberdefenders&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![BashScript](https://img.shields.io/badge/-zsh-0D1117?style=for-the-badge&logo=zsh&labelColor=0D1117&textColor=0D1117)&nbsp;
-
 ### Certifications
 ![ISO-17024](https://img.shields.io/badge/-Cibersecurity-0D1117?style=for-the-badge&logo=cyberdefenders&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![GCP](https://img.shields.io/badge/-GCP-0D1117?style=for-the-badge&logo=googlecloud&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -40,6 +30,13 @@
 </a>
 
 
+### Main skills:
+![JS](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Linux Debian](https://img.shields.io/badge/-LinuxDebian-0D1117?style=for-the-badge&logo=debian&labelColor=0D1117)&nbsp;
+![BashScript](https://img.shields.io/badge/-BashScript-0D1117?style=for-the-badge&logo=gnubash&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Pentest](https://img.shields.io/badge/-Pentest-0D1117?style=for-the-badge&logo=cyberdefenders&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![BashScript](https://img.shields.io/badge/-zsh-0D1117?style=for-the-badge&logo=zsh&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 ### Tools:
