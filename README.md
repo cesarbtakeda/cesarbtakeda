@@ -18,12 +18,12 @@
 
 ### ISO 17024 | IC-PEN-1560
 <a href="https://certs.ibsec.com.br/?cert_hash=97493760d2db8082&regenerate=1" target="_blank">
-  <img src="https://github.com/user-attachments/assets/b6994d80-ceeb-4a90-8087-640e15cab81e" alt="IBSEC Certification" width="7%" />
+  <img src="https://github.com/user-attachments/assets/b6994d80-ceeb-4a90-8087-640e15cab81e" alt="IBSEC Certification" width="10%" />
 </a>
 
-## GCP
+### GCP
 <a href="https://www.cloudskillsboost.google/public_profiles/52f87000-1206-45d7-9426-4cc9612d4b00" target="_blank">
- <img src="https://github.com/user-attachments/assets/a4a1aab0-db02-43c9-9469-054f54800684" alt=" GCP Certification" width="7%" />
+ <img src="https://github.com/user-attachments/assets/a4a1aab0-db02-43c9-9469-054f54800684" alt=" GCP Certification" width="10%" />
 </a>
 
 
