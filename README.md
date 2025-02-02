@@ -18,7 +18,7 @@
 
 ### ISO-17024 | IC-PEN-1560
 <a href="https://certs.ibsec.com.br/?cert_hash=97493760d2db8082">
-  <img src="https://github.com/user-attachments/assets/b6994d80-ceeb-4a90-8087-640e15cab81e" alt="IBSEC Certification" width="10%" />
+  <img src="https://github.com/user-attachments/assets/b6994d80-ceeb-4a90-8087-640e15cab81e" alt="IBSEC Certification" target="_blank" width="10%" />
 </a>
 
 
