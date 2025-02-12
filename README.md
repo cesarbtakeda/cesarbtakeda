@@ -55,5 +55,8 @@
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=sharp&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Assembly](https://img.shields.io/badge/-Asembly-0D1117?style=for-the-badge&logo=assemblyscript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+<img src="https://raw.githubusercontent.com/cesarbtakeda/cesarbtakeda/output/snake.svg" alt="Snake animation" />
+
+###
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
