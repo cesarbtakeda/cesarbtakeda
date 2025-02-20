@@ -79,7 +79,7 @@
 ![Assembly](https://img.shields.io/badge/-Asembly-0D1117?style=for-the-badge&logo=assemblyscript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ##### 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-augusto-b-69a866259/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesarbtakeda/)
 
 
 <img src="https://raw.githubusercontent.com/cesarbtakeda/cesarbtakeda/output/snake.svg" alt="Snake animation" />
