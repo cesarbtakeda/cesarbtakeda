@@ -23,9 +23,13 @@
 
 ### 
 
+### Cyber Threat Management
+<a href="https://www.credly.com/badges/3411666a-6e23-4c41-8c9e-1fc1e11c4590/public_url">
+  <img width="340" height="340" alt="CISCO Cyber Threat Management" src="https://github.com/user-attachments/assets/da742e21-0a11-40a8-8f6d-98430432ab41" />
 
-
-###  PT-IC-SOC-380 | PT-IC-LNX-1180 | PT-IC-SEC-1780 
+###
+  
+  ###  PT-IC-SOC-380 | PT-IC-LNX-1180 | PT-IC-SEC-1780 
 
 <a href="https://certs.ibsec.com.br/?cert_hash=c3976b818f132049">
   <img src="https://github.com/user-attachments/assets/9ea9d317-b5d5-47e2-9ad2-106c63a315c7" alt="IBSEC Certification" target="_blank" width="10%" /> 
