@@ -35,13 +35,16 @@
 
 <a href="https://certs.ibsec.com.br/?cert_hash=c3976b818f132049">
   <img src="https://github.com/user-attachments/assets/9ea9d317-b5d5-47e2-9ad2-106c63a315c7" alt="IBSEC Certification" target="_blank" width="10%" /> 
+</a>
+
   <a href="https://certs.ibsec.com.br/?cert_hash=12f35310bd31b76b">
   <img src="https://github.com/user-attachments/assets/86813a8c-fcba-49de-8ce9-d07c404c07d4" alt="IBSEC Certification" target="_blank" width="10%" />
 </a> 
+  
   <a href="https://certs.ibsec.com.br/?cert_hash=721dac00d4467aaf">
   <img src="https://github.com/user-attachments/assets/12296b87-c15f-4748-bfea-208d69c516b6" alt="IBSEC Certification" target="_blank" width="10%" />
 </a> 
-</a> 
+
 
 
 
