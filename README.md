@@ -24,8 +24,9 @@
 ### 
 
 ### Cyber Threat Management
-  <img target="_blank" width="10%" alt="CISCO Cyber Threat Management" src="https://github.com/user-attachments/assets/da742e21-0a11-40a8-8f6d-98430432ab41" />
-<a href="https://www.credly.com/badges/3411666a-6e23-4c41-8c9e-1fc1e11c4590/public_url"></a>
+  <a href="https://www.credly.com/badges/3411666a-6e23-4c41-8c9e-1fc1e11c4590/public_url">
+  <img target="_blank" width="10%" alt="CISCO Cyber Threat Management" src="https://github.com/user-attachments/assets/da742e21-0a11-40a8-8f6d-98430432ab41" /></a>
+
 
 ###
 
