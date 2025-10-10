@@ -86,10 +86,10 @@
 ### 📚 Studying in this moment:
 - CJCA
 - Cisco CyberOps (Associate)
-- typescript
+- Typescript
 
 
-##### 📫 Contact
+### 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesarbtakeda/)
 
 
