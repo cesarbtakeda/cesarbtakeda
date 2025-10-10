@@ -21,7 +21,7 @@
   <img src="https://github.com/user-attachments/assets/b6994d80-ceeb-4a90-8087-640e15cab81e" alt="IBSEC Certification" target="_blank" width="10%" />
 </a>
 
-### 
+### Cetifcates
 
 ### Cyber Threat Management
   <a href="https://www.credly.com/badges/3411666a-6e23-4c41-8c9e-1fc1e11c4590/public_url">
