@@ -84,8 +84,10 @@
 
 
 ### 📚 Studying in this moment:
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=sharp&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Assembly](https://img.shields.io/badge/-Asembly-0D1117?style=for-the-badge&logo=assemblyscript&labelColor=0D1117&textColor=0D1117)&nbsp;
+- CJCA
+- Cisco CyberOps (Associate)
+- typescript
+
 
 ##### 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesarbtakeda/)
