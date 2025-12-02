@@ -36,6 +36,11 @@
 
 ###
 
+### ISC2
+  <a href="https://www.credly.com/badges/512eb77a-f829-4530-ae4d-7a492c2f4687/public_url">
+<img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/a497fe15-8910-401d-91f7-5209f4622075" /></a>
+
+
   
 ### PT-IC-SOC-380 | PT-IC-LNX-1180 | PT-IC-SEC-1780 
 
