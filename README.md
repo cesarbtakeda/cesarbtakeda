@@ -99,7 +99,6 @@
 
 
 ### 📚 Studying in this moment:
-- CJCA
 - Cisco CyberOps (Associate)
 - Typescript
 
