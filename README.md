@@ -8,14 +8,18 @@
 
 
 
-#
-
-
+#<img width="1036" height="1036" alt="image" src="" />
 
 #
 
 ### Certifications - Publical Links
-### CJCA (HTB Certified Junior Cybersecurity Associate)
+#### CPTS [Certified Penetration Testing Specialist]
+<a href="https://profile.hackthebox.com/profile/019c2ed0-e2e6-71e3-aec4-9b7acdf3c4e5/certificate/HTBCERT-71F5AFF941">
+<img  src="https://github.com/user-attachments/assets/d80a9056-e559-4321-96e2-af78ab42f806" alt="CPTSCertification" target="_blank" width="10%" />
+</a>
+
+
+#### CJCA [HTB Certified Junior Cybersecurity Associate]
 
 <a href="https://profile.hackthebox.com/profile/019c2ed0-e2e6-71e3-aec4-9b7acdf3c4e5/certificate/HTBCERT-4A24271D6E">
 <img  src="https://github.com/user-attachments/assets/b8405da0-0066-46bb-bda1-53a3ced1a420" alt="CJCA Certification" target="_blank" width="10%" />
@@ -23,7 +27,7 @@
 
 #
 
-### ISO-17024 | IC-PEN-1560
+#### ISO-17024 | IC-PEN-1560
 <a href="https://certs.ibsec.com.br/?cert_hash=97493760d2db8082">
   <img src="https://github.com/user-attachments/assets/b6994d80-ceeb-4a90-8087-640e15cab81e" alt="IBSEC Certification" target="_blank" width="10%" />
 </a>
@@ -35,19 +39,19 @@
 
 ###
 
-### CCNA1 | Cyber Threat Management 
+#### CCNA1 | Cyber Threat Management 
   <a href="https://www.credly.com/badges/cf80a586-64cf-4bed-86d5-ff9eca648f27/public_url">
   <img target="_blank" width="10%" alt="CISCO Cyber Threat Management" src="https://github.com/user-attachments/assets/105ab59d-8abb-4e7d-a353-53b1ea410b96" /></a>
   <a href="https://www.credly.com/badges/3411666a-6e23-4c41-8c9e-1fc1e11c4590/public_url">
   <img target="_blank" width="10%" alt="CISCO Cyber Threat Management" src="https://github.com/user-attachments/assets/da742e21-0a11-40a8-8f6d-98430432ab41" /></a>
 
 
-###
+####
 
 
 
   
-### PT-IC-SOC-380 | PT-IC-LNX-1180 | PT-IC-SEC-1780 
+#### PT-IC-SOC-380 | PT-IC-LNX-1180 | PT-IC-SEC-1780 
 
 <a href="https://certs.ibsec.com.br/?cert_hash=c3976b818f132049">
   <img src="https://github.com/user-attachments/assets/9ea9d317-b5d5-47e2-9ad2-106c63a315c7" alt="IBSEC Certification" target="_blank" width="10%" /> 
@@ -66,7 +70,7 @@
 
 
 
-### GCP
+#### GCP
 <a href="https://www.cloudskillsboost.google/public_profiles/52f87000-1206-45d7-9426-4cc9612d4b00" target="_blank">
  <img src="https://github.com/user-attachments/assets/a4a1aab0-db02-43c9-9469-054f54800684" alt=" GCP Certification" width="10%" />
 </a>
