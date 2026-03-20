@@ -17,7 +17,7 @@
 ### CJCA (HTB Certified Junior Cybersecurity Associate)
 
 <a href="https://www.credly.com/badges/8522660f-8b24-4e6e-95e1-922b2e3a5c11/public_url">
-<img  src="https://github.com/user-attachments/assets/24fd78c0-f164-4b2d-8442-c825d3d886d3" alt="CJCA Certification" target="_blank" width="10%" />
+<img  src="https://profile.hackthebox.com/profile/019c2ed0-e2e6-71e3-aec4-9b7acdf3c4e5/certificate/HTBCERT-4A24271D6E" alt="CJCA Certification" target="_blank" width="10%" />
 </a>
 
 #
