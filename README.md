@@ -3,10 +3,11 @@
   
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=600&lines=Penetration+Tester+and+Developer;Computer+Engineering;Passionate+about+Cybersecurity+and+Technology;Studying+Computer+Engineering+3nd+Semester+Facens)](https://github.com/cesarbtakeda/cesarbtakeda)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=600&lines=Penetration+Tester+and+Developer;Computer+Engineering;Passionate+about+Cybersecurity+and+Technology;Studying+Computer+Engineering+4nd+Semester+Facens)](https://github.com/cesarbtakeda/cesarbtakeda)
 
 
-#
+##
+##
 
 ### Certifications - Publical Links
 #### CPTS [Certified Penetration Testing Specialist]
@@ -21,23 +22,25 @@
 <img  src="https://github.com/user-attachments/assets/b8405da0-0066-46bb-bda1-53a3ced1a420" alt="CJCA Certification" target="_blank" width="10%" />
 </a>
 
-#
+###
 
 #### ISO-17024 | IC-PEN-1560
 <a href="https://certs.ibsec.com.br/?cert_hash=97493760d2db8082">
   <img src="https://github.com/user-attachments/assets/b6994d80-ceeb-4a90-8087-640e15cab81e" alt="IBSEC Certification" target="_blank" width="10%" />
 </a>
 
+##
+##
+
 ### Cetificates
-
-### 
-
 
 ###
 
-#### CCNA1 | Cyber Threat Management 
+#### CNNA Cybersecurity | CCNA1 | Cyber Threat Management 
+  <a href="https://www.credly.com/badges/9c11c09c-3c38-4e34-884e-a50cf96815db/public_url">
+  <img target="_blank" width="10%" alt="CyberOpsAssociate" src="https://github.com/user-attachments/assets/25e8f9ce-08d4-4225-9198-e7beea3df35b" /></a>
   <a href="https://www.credly.com/badges/cf80a586-64cf-4bed-86d5-ff9eca648f27/public_url">
-  <img target="_blank" width="10%" alt="CISCO Cyber Threat Management" src="https://github.com/user-attachments/assets/105ab59d-8abb-4e7d-a353-53b1ea410b96" /></a>
+  <img target="_blank" width="10%" alt="CISCO CCNA1" src="https://github.com/user-attachments/assets/105ab59d-8abb-4e7d-a353-53b1ea410b96" /></a>
   <a href="https://www.credly.com/badges/3411666a-6e23-4c41-8c9e-1fc1e11c4590/public_url">
   <img target="_blank" width="10%" alt="CISCO Cyber Threat Management" src="https://github.com/user-attachments/assets/da742e21-0a11-40a8-8f6d-98430432ab41" /></a>
 
