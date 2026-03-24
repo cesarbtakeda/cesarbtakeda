@@ -10,13 +10,13 @@
 ##
 
 ### Certifications - Publical Links
-#### CPTS [Certified Penetration Testing Specialist]
+### CPTS [Certified Penetration Testing Specialist]
 <a href="https://profile.hackthebox.com/profile/019c2ed0-e2e6-71e3-aec4-9b7acdf3c4e5/certificate/HTBCERT-71F5AFF941">
 <img  src="https://github.com/user-attachments/assets/d80a9056-e559-4321-96e2-af78ab42f806" alt="CPTSCertification" target="_blank" width="10%" />
 </a>
 
 
-#### CJCA [HTB Certified Junior Cybersecurity Associate]
+### CJCA [HTB Certified Junior Cybersecurity Associate]
 
 <a href="https://profile.hackthebox.com/profile/019c2ed0-e2e6-71e3-aec4-9b7acdf3c4e5/certificate/HTBCERT-4A24271D6E">
 <img  src="https://github.com/user-attachments/assets/b8405da0-0066-46bb-bda1-53a3ced1a420" alt="CJCA Certification" target="_blank" width="10%" />
@@ -24,7 +24,7 @@
 
 ###
 
-#### ISO-17024 | IC-PEN-1560
+### ISO-17024 | IC-PEN-1560
 <a href="https://certs.ibsec.com.br/?cert_hash=97493760d2db8082">
   <img src="https://github.com/user-attachments/assets/b6994d80-ceeb-4a90-8087-640e15cab81e" alt="IBSEC Certification" target="_blank" width="10%" />
 </a>
