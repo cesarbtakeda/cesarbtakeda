@@ -36,7 +36,7 @@
 
 ###
 
-#### CNNA Cybersecurity | CCNA1 | Cyber Threat Management 
+#### Cyberops | CCNA1 | Cyber Threat Management 
   <a href="https://www.credly.com/badges/9c11c09c-3c38-4e34-884e-a50cf96815db/public_url">
   <img target="_blank" width="10%" alt="CyberOpsAssociate" src="https://github.com/user-attachments/assets/25e8f9ce-08d4-4225-9198-e7beea3df35b" /></a>
   <a href="https://www.credly.com/badges/cf80a586-64cf-4bed-86d5-ff9eca648f27/public_url">
