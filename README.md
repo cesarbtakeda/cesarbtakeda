@@ -3,7 +3,7 @@
   
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=600&lines=Penetration+Tester+and+Developer;Computer+Engineering;Passionate+about+Cybersecurity+and+Technology;Studying+Computer+Engineering+4nd+Semester+Facens)](https://github.com/t0x1nsec/t0x1nsec)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=600&lines=Penetration+Tester+and+Developer;Computer+Engineering;Passionate+about+Cybersecurity+and+Technology;Studying+Computer+Engineering+3nd+Semester+Facens)](https://github.com/t0x1nsec/t0x1nsec)
 
 
 ##
