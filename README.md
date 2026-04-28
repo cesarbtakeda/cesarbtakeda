@@ -32,7 +32,7 @@
 ##
 ##
 
-### Cetificates
+### Cetificates- Publical Links
 
 ###
 
@@ -87,22 +87,24 @@
 ![BashScript](https://img.shields.io/badge/-zsh-0D1117?style=for-the-badge&logo=zsh&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JS](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-### 🛡️ Tools:
+### 🛡️ Frameworks:
+![Kali Linux](https://img.shields.io/badge/-KaliLinux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=90ee90&labelColor=0D1117)&nbsp;
+![MetaSploit](https://img.shields.io/badge/-MetaSploit-0D1117?style=for-the-badge&logo=Metasploit&logoColor=90ee90&labelColor=0D1117)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Kali Linux](https://img.shields.io/badge/-KaliLinux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=90ee90&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![MetaSploit](https://img.shields.io/badge/-MetaSploit-0D1117?style=for-the-badge&logo=Metasploit&logoColor=90ee90&labelColor=0D1117)&nbsp;
+
 
 ### 🔧 Other Knowledge:
+![Web Desing](https://img.shields.io/badge/-WebDesing-0D1117?style=for-the-badge&logo=&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Web Desing](https://img.shields.io/badge/-WebDesing-0D1117?style=for-the-badge&logo=&labelColor=0D1117)&nbsp;
+
 
 
 ### 📚 Studying in this moment:
-- Cisco CyberOps (Associate)
+- CCNA Cybersecurity
 - RUST
 
 
