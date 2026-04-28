@@ -3,7 +3,7 @@
   
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=600&lines=Penetration+Tester+and+Developer;Computer+Engineering;Passionate+about+Cybersecurity+and+Technology;Studying+Computer+Engineering+3nd+Semester+Facens)](https://github.com/t0x1nsec/t0x1nsec)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=600&lines=Penetration+Tester+and+Developer;Computer+Engineering;Passionate+about+Cybersecurity+and+Technology;Studying+Computer+Engineering+3nd+Semester+Facens)](https://github.com/cesarbtakeda/cesarbtakeda)
 
 
 ##
@@ -108,10 +108,10 @@
 
 
 ### 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/t0x1nsec/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesarbtakeda/)
 
 
-<img src="https://raw.githubusercontent.com/t0x1nsec/t0x1nsec/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/cesarbtakeda/cesarbtakeda/output/snake.svg" alt="Snake animation" />
 
 
 
