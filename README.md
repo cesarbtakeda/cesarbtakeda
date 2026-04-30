@@ -105,7 +105,7 @@
 
 ### 📚 Studying in this moment:
 - CCNA Cybersecurity
-- RUST
+- C
 
 
 ### 📫 Contact
