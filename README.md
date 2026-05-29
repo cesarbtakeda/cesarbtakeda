@@ -100,7 +100,7 @@
 ### <img width="3%" height="3%" alt="sistema-operacional" src="https://github.com/user-attachments/assets/d63dca3e-5fbd-478d-a8b5-1f9627ba83e0" />    Main OS:
 ![Kali Linux](https://img.shields.io/badge/-KaliLinux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=90ee90&labelColor=0D1117)&nbsp;
 ![Linux Debian](https://img.shields.io/badge/-Linux%20Debian-0D1117?style=for-the-badge&logo=debian&logoColor=white&labelColor=0D1117)
-![Parrot OS](https://img.shields.io/badge/-ParrotOS-0D1117?style=for-the-badge&logo=linux&logoColor=15E0ED&labelColor=0D1117)&nbsp;
+![Parrot OS](https://img.shields.io/badge/-Parrot%20OS-0D1117?style=for-the-badge&logo=linux&logoColor=15E0ED&labelColor=0D1117)&nbsp;
 ![BlackArch](https://img.shields.io/badge/-BlackArch-0D1117?style=for-the-badge&logo=archlinux&logoColor=1793D1&labelColor=0D1117)&nbsp;
 
 
