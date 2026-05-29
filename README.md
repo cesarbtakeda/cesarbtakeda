@@ -79,7 +79,7 @@
 
 #
 
-### Main skills:
+### 🕵️ Main skills:
 ![Pentest-Web](https://img.shields.io/badge/-PentestWeb-0D1117?style=for-the-badge&logo=cyberdefenders&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![Pentest App](https://img.shields.io/badge/-PentestApp-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84&labelColor=0D1117)&nbsp;
 ![Pentest AD](https://img.shields.io/badge/-PentestAD-0D1117?style=for-the-badge&logo=windows&logoColor=0078D4&labelColor=0D1117)&nbsp;
@@ -87,7 +87,7 @@
 #
 
 
-### Main programming languages:
+### 🔨 Main programming languages:
 ![BashScript](https://img.shields.io/badge/-BashScript-0D1117?style=for-the-badge&logo=gnubash&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Zsh](https://img.shields.io/badge/-zsh-0D1117?style=for-the-badge&logo=zsh&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=0D1117)&nbsp;
@@ -106,7 +106,7 @@
 
 #
 
-### 🛡️ Frameworks and Tools used:
+### 🧰 Frameworks and Tools used:
 ![MetaSploit](https://img.shields.io/badge/-MetaSploit-0D1117?style=for-the-badge&logo=Metasploit&logoColor=90ee90&labelColor=0D1117)&nbsp;
 ![Ligolo-ng](https://img.shields.io/badge/-Ligolo--ng-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=0D1117)&nbsp;
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=orange&labelColor=0D1117)&nbsp;
