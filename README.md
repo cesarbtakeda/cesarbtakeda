@@ -113,7 +113,7 @@
 ![OWASP](https://img.shields.io/badge/-OWASP-0D1117?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0D1117)&nbsp;
 ![Hack The Box](https://img.shields.io/badge/-Hack%20The%20Box-0D1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=0D1117)&nbsp;
 ![Wireshark](https://img.shields.io/badge/-Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=blue&labelColor=0D1117)&nbsp;
-![Nmap](https://img.shields.io/badge/-Nmap-0D1117?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117)&nbsp;
+![Nmap](https://custom-icon-badges.demolab.com/badge/-Nmap-0D1117?style=for-the-badge&logo=eye&logoColor=white)&nbsp;
 ![BloodHound](https://img.shields.io/badge/-BloodHound-0D1117?style=for-the-badge&logo=neo4j&logoColor=008CC1&labelColor=0D1117)&nbsp;
 ![Impacket](https://img.shields.io/badge/-Impacket-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117)&nbsp;
 ![Nuclei](https://img.shields.io/badge/-Nuclei-0D1117?style=for-the-badge&logo=yaml&logoColor=CB171E&labelColor=0D1117)&nbsp;
