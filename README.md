@@ -80,9 +80,9 @@
 #
 
 ### 🕵️ Main skills:
-![Pentest-Web](https://img.shields.io/badge/-Pentest%20Web-0D1117?style=for-the-badge&logo=cyberdefenders&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Pentest App](https://img.shields.io/badge/-Pentest%20App-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84&labelColor=0D1117)&nbsp;
-![Pentest AD](https://img.shields.io/badge/-Pentest%20AD-0D1117?style=for-the-badge&logo=windows&logoColor=0078D4&labelColor=0D1117)&nbsp;
+![Pentest Web](https://custom-icon-badges.demolab.com/badge/Pentest%20Web-0D1117?style=for-the-badge&logo=globe&logoColor=purple)&nbsp;
+![Pentest App](https://custom-icon-badges.demolab.com/badge/Pentest%20App-0D1117?style=for-the-badge&logo=device-mobile&logoColor=3DDC84)&nbsp;
+![Pentest AD](https://custom-icon-badges.demolab.com/badge/Pentest%20AD-0D1117?style=for-the-badge&logo=server&logoColor=0078D4)&nbsp;
 
 #
 
@@ -119,7 +119,7 @@
 ![Nuclei](https://img.shields.io/badge/-Nuclei-0D1117?style=for-the-badge&logo=yaml&logoColor=CB171E&labelColor=0D1117)&nbsp;
 ![SQLMap](https://img.shields.io/badge/-SQLMap-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=0D1117)&nbsp;
 ![Katana](https://img.shields.io/badge/-Katana-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=0D1117)&nbsp;
-![Netcat](https://img.shields.io/badge/-Netcat-0D1117?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0D1117)&nbsp;
+![Netcat](https://custom-icon-badges.demolab.com/badge/-Netcat-0D1117?style=for-the-badge&logo=eye&logoColor=white)&nbsp;
 ![WPScan](https://img.shields.io/badge/-WPScan-0D1117?style=for-the-badge&logo=wordpress&logoColor=21759B&labelColor=0D1117)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
