@@ -80,9 +80,9 @@
 #
 
 ### 🕵️ Main skills:
-![Pentest-Web](https://img.shields.io/badge/-PentestWeb-0D1117?style=for-the-badge&logo=cyberdefenders&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Pentest App](https://img.shields.io/badge/-PentestApp-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84&labelColor=0D1117)&nbsp;
-![Pentest AD](https://img.shields.io/badge/-PentestAD-0D1117?style=for-the-badge&logo=windows&logoColor=0078D4&labelColor=0D1117)&nbsp;
+![Pentest-Web](https://img.shields.io/badge/-Pentest%20Web-0D1117?style=for-the-badge&logo=cyberdefenders&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Pentest App](https://img.shields.io/badge/-Pentest%20App-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84&labelColor=0D1117)&nbsp;
+![Pentest AD](https://img.shields.io/badge/-Pentest%20AD-0D1117?style=for-the-badge&logo=windows&logoColor=0078D4&labelColor=0D1117)&nbsp;
 
 #
 
