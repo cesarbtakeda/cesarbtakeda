@@ -80,32 +80,68 @@
 #
 
 ### Main skills:
-![Pentest-App](https://img.shields.io/badge/-Pentest-0D1117?style=for-the-badge&logo=cyberdefenders&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Linux Debian](https://img.shields.io/badge/-LinuxDebian-0D1117?style=for-the-badge&logo=debian&labelColor=0D1117)&nbsp;
+![Pentest-Web](https://img.shields.io/badge/-PentestWeb-0D1117?style=for-the-badge&logo=cyberdefenders&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Pentest App](https://img.shields.io/badge/-PentestApp-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84&labelColor=0D1117)&nbsp;
+![Pentest AD](https://img.shields.io/badge/-PentestAD-0D1117?style=for-the-badge&logo=windows&logoColor=0078D4&labelColor=0D1117)&nbsp;
+
+#
+
+
+### <img width="3%" height="3%" alt="sistema-operacional" src="https://github.com/user-attachments/assets/d63dca3e-5fbd-478d-a8b5-1f9627ba83e0" />   Main programming languages:
 ![BashScript](https://img.shields.io/badge/-BashScript-0D1117?style=for-the-badge&logo=gnubash&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Zsh](https://img.shields.io/badge/-zsh-0D1117?style=for-the-badge&logo=zsh&labelColor=0D1117&textColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=0D1117)&nbsp;
+![PowerShell](https://img.shields.io/badge/-PowerShell-0D1117?style=for-the-badge&logo=powershell&logoColor=5391FE&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![BashScript](https://img.shields.io/badge/-zsh-0D1117?style=for-the-badge&logo=zsh&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JS](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-### 🛡️ Frameworks:
+#
+
+### Main OS:
 ![Kali Linux](https://img.shields.io/badge/-KaliLinux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=90ee90&labelColor=0D1117)&nbsp;
+![Linux Debian](https://img.shields.io/badge/-Linux%20Debian-0D1117?style=for-the-badge&logo=debian&logoColor=white&labelColor=0D1117)
+![Parrot OS](https://img.shields.io/badge/-ParrotOS-0D1117?style=for-the-badge&logo=linux&logoColor=15E0ED&labelColor=0D1117)&nbsp;
+![BlackArch](https://img.shields.io/badge/-BlackArch-0D1117?style=for-the-badge&logo=archlinux&logoColor=1793D1&labelColor=0D1117)&nbsp;
+
+
+#
+
+### 🛡️ Frameworks and Tools used:
 ![MetaSploit](https://img.shields.io/badge/-MetaSploit-0D1117?style=for-the-badge&logo=Metasploit&logoColor=90ee90&labelColor=0D1117)&nbsp;
+![Ligolo-ng](https://img.shields.io/badge/-Ligolo--ng-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=0D1117)&nbsp;
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=orange&labelColor=0D1117)&nbsp;
+![OWASP](https://img.shields.io/badge/-OWASP-0D1117?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0D1117)&nbsp;
+![Hack The Box](https://img.shields.io/badge/-Hack%20The%20Box-0D1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=0D1117)&nbsp;
+![Wireshark](https://img.shields.io/badge/-Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=blue&labelColor=0D1117)&nbsp;
+![Nmap](https://img.shields.io/badge/-Nmap-0D1117?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117)&nbsp;
+![BloodHound](https://img.shields.io/badge/-BloodHound-0D1117?style=for-the-badge&logo=neo4j&logoColor=008CC1&labelColor=0D1117)&nbsp;
+![Impacket](https://img.shields.io/badge/-Impacket-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117)&nbsp;
+![Nuclei](https://img.shields.io/badge/-Nuclei-0D1117?style=for-the-badge&logo=yaml&logoColor=CB171E&labelColor=0D1117)&nbsp;
+![SQLMap](https://img.shields.io/badge/-SQLMap-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=0D1117)&nbsp;
+![Katana](https://img.shields.io/badge/-Katana-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=0D1117)&nbsp;
+![Netcat](https://img.shields.io/badge/-Netcat-0D1117?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0D1117)&nbsp;
+![WPScan](https://img.shields.io/badge/-WPScan-0D1117?style=for-the-badge&logo=wordpress&logoColor=21759B&labelColor=0D1117)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
+#
 
 ### 🔧 Other Knowledge:
 ![Web Desing](https://img.shields.io/badge/-WebDesing-0D1117?style=for-the-badge&logo=&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-
+#
+#
 
 ### 📚 Studying in this moment:
 - CCNA Cybersecurity
-- C
+
+#
+#
 
 
 ### 📫 Contact
