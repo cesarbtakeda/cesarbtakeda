@@ -87,7 +87,7 @@
 #
 
 
-### <img width="3%" height="3%" alt="sistema-operacional" src="https://github.com/user-attachments/assets/d63dca3e-5fbd-478d-a8b5-1f9627ba83e0" />   Main programming languages:
+### Main programming languages:
 ![BashScript](https://img.shields.io/badge/-BashScript-0D1117?style=for-the-badge&logo=gnubash&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Zsh](https://img.shields.io/badge/-zsh-0D1117?style=for-the-badge&logo=zsh&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=0D1117)&nbsp;
@@ -97,7 +97,7 @@
 
 #
 
-### Main OS:
+### <img width="3%" height="3%" alt="sistema-operacional" src="https://github.com/user-attachments/assets/d63dca3e-5fbd-478d-a8b5-1f9627ba83e0" />    Main OS:
 ![Kali Linux](https://img.shields.io/badge/-KaliLinux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=90ee90&labelColor=0D1117)&nbsp;
 ![Linux Debian](https://img.shields.io/badge/-Linux%20Debian-0D1117?style=for-the-badge&logo=debian&logoColor=white&labelColor=0D1117)
 ![Parrot OS](https://img.shields.io/badge/-ParrotOS-0D1117?style=for-the-badge&logo=linux&logoColor=15E0ED&labelColor=0D1117)&nbsp;
