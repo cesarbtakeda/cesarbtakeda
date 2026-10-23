@@ -198,7 +198,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://cesarcyber.dev/)
 
-<img src="https://raw.githubusercontent.com/cesarbtakeda/cesarbtakeda/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/c4bsec/c4bsec/output/snake.svg" alt="Snake animation" />
 
 
 
