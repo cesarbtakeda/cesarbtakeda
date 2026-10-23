@@ -3,7 +3,7 @@
   
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=600&lines=Penetration+Tester+and+Developer;Computer+Engineering;Passionate+about+Cybersecurity+and+Technology;Studying+Computer+Engineering+4nd+Semester+Uniso)](https://github.com/cesarbtakeda/cesarbtakeda)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=600&lines=Penetration+Tester+and+Developer;Computer+Engineering;Passionate+about+Cybersecurity+and+Technology;Studying+Computer+Engineering+4nd+Semester+Facens)](https://github.com/c4bsec/c4bsec)
 
 
 ##
@@ -190,13 +190,13 @@
 
 
 ### 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesarbtakeda/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c4bsec/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/cesarbtakeda/)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/c4bsec/)
 
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-0D1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=0D1117)](https://profile.hackthebox.com/profile/019c2ed0-e2e6-71e3-aec4-9b7acdf3c4e5)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://cesarbtakeda.xyz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://cesarcyber.dev/)
 
 <img src="https://raw.githubusercontent.com/cesarbtakeda/cesarbtakeda/output/snake.svg" alt="Snake animation" />
 
